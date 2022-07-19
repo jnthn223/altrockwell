@@ -4,4 +4,4 @@ Taking up Bachelor of Science in Information Technology. The goal is to become a
 
 Email me: aplacadorjonathan2@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altrockwell)](https://github.com/altrockwell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altrockwell&theme=dark)](https://github.com/altrockwell/github-readme-stats)
