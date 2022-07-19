@@ -3,3 +3,5 @@ Hi I'm **Jonathan Aplacador**. Since my first account here on Github is a mess I
 Taking up Bachelor of Science in Information Technology. The goal is to become a Full-Stack Web Developer. 
 
 Email me: aplacadorjonathan2@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altrockwell)](https://github.com/altrockwell/github-readme-stats)
